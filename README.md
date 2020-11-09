@@ -11,8 +11,10 @@
 
 Pasos para instalación
 
-* Clona este repositorio 
-* composer install
+* Clona este repositorio.
+* composer install.
+* Ejecuta el script de la base de datos.
+* Crea un archivo .env y copia las credenciales del archivo .env.example
 * php artisan key:generate
 
 <hr>
